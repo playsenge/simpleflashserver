@@ -1,0 +1,19 @@
+Name:		Steak and Jake: Midnight March
+Developer:	Flipline Studios
+Size:		672 x 480
+Screenshots:	http://www.flipline.com/games/midnightmarch/screenshots.html
+Category:	Puzzle Platformer
+
+Version: 	2.0
+Updated: 	03/09/14
+Includes: 	Major Bug fixes and removal of all Mochi Ads
+
+Description:
+Help Steak and Jake guide the marching Ghouls along the trail this Halloween! Multi-task in this puzzle-platformer, with Jake the color-changing bird matching colors in the puzzle screen, while clearing the trail above for Steak and the Ghouls.
+
+Instructions:
+Use your mouse and follow the in-game instructions.
+
+
+
+
