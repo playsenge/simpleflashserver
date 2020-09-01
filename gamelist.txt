@@ -52,11 +52,11 @@ Escaping the PrisonF
 Stealing the DiamondF
 Infiltrating the AirshipF
 Fleeing the ComplexF
-RazeF
-Raze 2F
-Raze 3F
-Strike Force HeroesF
-Strike Force Heroes 2F
-Strike Force Heroes 3F
-Plazma BurstF
-Plazma Burst 2F
+RazeF2
+Raze 2F2
+Raze 3F2
+Strike Force HeroesF2
+Strike Force Heroes 2F2
+Strike Force Heroes 3F2
+Plazma BurstF2
+Plazma Burst 2F2
