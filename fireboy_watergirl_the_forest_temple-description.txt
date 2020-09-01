@@ -1,0 +1,2 @@
+Use the keyboard to move Fireboy and Watergirl through the maze and collect the diamonds on their way to the exits. The A,W,D keys move Watergirl and the arrow keys move Fireboy.
+Since fire and water don't mix, be sure to not let Fireboy go in the water lakes and don't let Watergirl go in the fire lakes... And keep them both out of the green lakes.
