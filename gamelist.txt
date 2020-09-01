@@ -44,8 +44,8 @@ Moto X3M 2H1
 Moto X3M 3H1
 Moto X3M 4H1
 Moto X3M 5H1
-Extreme Moto TeamH13
-Extreme Moto RunH13
+Extreme Moto TeamH1
+Extreme Moto RunH1
 Breaking the BankF3
 Escaping the PrisonF3
 Stealing the DiamondF3
