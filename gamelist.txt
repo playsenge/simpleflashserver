@@ -15,16 +15,16 @@ Trollface Quest Video Games 2F
 Trollface Quest TV ShowsF
 Trollface Quest Internet MemesF
 Fireboy and Watergirl The Forest Temple
-Super Mario Star ScrambleF
-Super Mario Star Scramble 2F
-Super Mario Star Scramble 2 Ghost IslandF
-Super Mario Star Scramble 3F
-Cactus McCoyF
-Cactus McCoy 2F
+Super Mario Star ScrambleF1
+Super Mario Star Scramble 2F1
+Super Mario Star Scramble 2 Ghost IslandF1
+Super Mario Star Scramble 3F1
+Cactus McCoyF1
+Cactus McCoy 2F1
 JacksmithF
-Papa LouieF
-Papa Louie 2F
-Papa Louie 3F
+Papa LouieF1
+Papa Louie 2F1
+Papa Louie 3F1
 Papa's BakeriaF
 Papa's BurgeriaF
 Papa's CheeseriaF
@@ -40,14 +40,14 @@ Papa's SushiriaF
 Papa's Taco Mia!F
 Papa's WingeriaF
 Rock Garden DeluxeF
-Moto X3MF
-Moto X3M 2H
-Moto X3M 3H
-Moto X3M 4H
-Moto X3M 5H
-Extreme Moto TeamH
-Extreme Moto RunH
-Breaking the BankF
+Moto X3MF1
+Moto X3M 2H1
+Moto X3M 3H1
+Moto X3M 4H1
+Moto X3M 5H1
+Extreme Moto TeamH1
+Extreme Moto RunH1
+Breaking the BankF1
 Escaping the PrisonF
 Stealing the DiamondF
 Infiltrating the AirshipF
