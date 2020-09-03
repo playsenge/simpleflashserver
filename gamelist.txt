@@ -46,6 +46,9 @@ Moto X3M 4H
 Moto X3M 5H
 Extreme Moto TeamH
 Extreme Moto RunH
+RunF
+Run 2F
+Run 3H
 Breaking the BankF
 Escaping the PrisonF
 Stealing the DiamondF
