@@ -79,7 +79,6 @@ A Dralien DayF
 400 YearsF
 300 Miles to PigslandF
 20 WavesF
-2048F
 1 Screen HeroF
 2048F
 10F
