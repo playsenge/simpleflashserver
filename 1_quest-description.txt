@@ -1,0 +1,15 @@
+1Quest is a roguelike, where you control a young adventurer who pursues an evil blood cult, after they abducts several children, including the princess of the kingdom!
+
+You got 7 days before he can start his evil ritual to summon an ancient demon from the sacrificing of the children. Each region of the realm contains some dangerous place where you can find various help and you can choose your own path to choose your rewards. But do not lose time, if you want to save all the children…
+
+Fight monsters, grab loot, become more powerful and save the children to prevent the blood cult to summon the demon.
+
+Key features:
+- Turn based RPG
+- Roguelike: Dying is fun!
+- 5 races
+- 18 Differents classes
+- More than 150 class abilities and spells for characters
+- More than 100 monsters
+- 20 Differents dungeons with specific rewards
+- Magic system based on spell schools and magic affinity for more diversity and replayability
